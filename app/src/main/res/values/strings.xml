@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Critical Role Buttons</string>
+    <string name="action_send">Share</string>
+    <string name="action_ringtone">Save as ...</string>
+    <string name="action_favorite">Add to favorites</string>
+    <string name="action_removeFavorite">Remove from favorites</string>
+    <string name="action_favorite_show">Favoriten</string>
+    <string name="action_favorite_hide">Back to Main</string>
+
+    <string name="rate_dialog_title">Rate this app</string>
+    <string name="rate_dialog_message">If you enjoy using Critical Role Buttons, would you mind taking the time to rate it? It won`t take longer than the blink of a dragon. Thank you for your support!</string>
+    <string name="rate_dialog_ok">Okay okay okay</string>
+    <string name="rate_dialog_cancel">Dotty, remind me tomorrow</string>
+    <string name="rate_dialog_no">No thanks, bidet</string>
+
+    <string-array name="soundNames">
+        <item>Beer</item>
+        <item>Do I get to hit things</item>
+        <item>FIX HIM</item>
+        <item>Grog Strongjaw</item>
+        <item>I approve of this plan</item>
+        <item>Intelligence of 6</item>
+        <item>Like a flower girl</item>
+        <item>I would like to rage</item>
+        <item>Nice</item>
+        <item>No one dies</item>
+        <item>Prof Grog</item>
+        <item>The meat out of your dome</item>
+        <item>Touch my axe</item>
+        <item>I can RP this</item>
+        <item>Ohh Hallo</item>
+        <item>Turn into a goldfish</item>
+        <item>Underwater tea party</item>
+        <item>Wait WHAT!</item>
+        <item>We are gods</item>
+        <item>Burt Reynolds Esquire</item>
+        <item>Clarota healing</item>
+        <item>Get your Scanlan on</item>
+        <item>I`m a crime lord</item>
+        <item>I healed you so bad</item>
+        <item>I`m a believer</item>
+        <item>I walk by</item>
+        <item>Scanlan make you feel good</item>
+        <item>Shitting on bed</item>
+        <item>You`re ugly</item>
+        <item>You`re walking straight</item>
+        <item>You gonna fail</item>
+        <item>All kinds off fucked up</item>
+        <item>Guiding bolt</item>
+        <item>Hairy shoulders</item>
+        <item>It`s going to be fine</item>
+        <item>Kill you all</item>
+        <item>Okay okay okay</item>
+        <item>Turn that frown upside down</item>
+        <item>V as in vagina</item>
+        <item>What a fail of a turn</item>
+        <item>Glorious</item>
+        <item>HDYWTDT</item>
+        <item>Huh sure</item>
+        <item>Who is next</item>
+        <item>Madam Musk</item>
+        <item>You are in my domain</item>
+        <item>I am Kiri</item>
+        <item>Go fuck yourself</item>
+        <item>I am sorry I am a genius</item>
+        <item>I am sure you have a friend</item>
+        <item>I don`t speak fish</item>
+        <item>I want my money back</item>
+        <item>Life needs things to live</item>
+        <item>Like a 14 year old</item>
+        <item>Percival</item>
+        <item>We keep your weapons</item>
+        <item>You have a deal</item>
+        <item>Your secret is safe</item>
+        <item>Come back when you`re ready</item>
+        <item>Dagger Dagger Dagger</item>
+        <item>Good looking</item>
+        <item>I`m offering you an experience</item>
+        <item>In the darkness</item>
+        <item>Phukungt</item>
+        <item>Prayer to Sarenrae</item>
+        <item>Taco not Hot Dog</item>
+        <item>Vax-inate your kids</item>
+        <item>A very deep question</item>
+        <item>Dirty old books</item>
+        <item>Do you understand me</item>
+        <item>I know</item>
+        <item>Limerick</item>
+        <item>Pretty shitty</item>
+        <item>Secrets aren`t save</item>
+        <item>Still be ugly</item>
+        <item>Pretending to like this fuck</item>
+        <item>Trinket the wonder bear</item>
+        <item>Who has Mimosa</item>
+        <item>Why are you so evil</item>
+        <item>You are a dipshit</item>
+        <item>Your broom fell in the lava</item>
+        <item>Bye</item>
+        <item>Learn from my mistakes</item>
+        <item>It`s been a while</item>
+        <item>Suntree a OK</item>
+    </string-array>
+
+</resources>
